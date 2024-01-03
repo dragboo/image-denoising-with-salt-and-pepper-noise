@@ -12,7 +12,7 @@ The median_filter function takes a noisy 2D image and applies median filtering t
 
 **Usage** <br />
 
-To test the functions, an image is loaded, and the salt_n_pepper function is called with different probabilities p to generate various noise levels. The denoising process is then performed using the median_filter function.
+To test the functions, an image is loaded, and the salt_n_pepper function is called with different probabilities p to generate various noise levels. The denoising process is then performed using the median_filter function. <br />
 
 **Libraries Used:** <br />
 
