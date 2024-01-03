@@ -11,6 +11,7 @@ This function takes an image and a probability parameter p, representing the lik
 The median_filter function takes a noisy 2D image and applies median filtering to it. The additional parameter W determines the width of the neighborhood window around each pixel. The function handles pixels close to the borders appropriately, considering asymmetric and non-square neighborhood windows when necessary.
 
 **Usage** <br />
+
 To test the functions, an image is loaded, and the salt_n_pepper function is called with different probabilities p to generate various noise levels. The denoising process is then performed using the median_filter function.
 
 **Libraries Used:** <br />
